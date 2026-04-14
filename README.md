@@ -67,7 +67,3 @@ And includes factors like:
 🚀 Conclusion
 
 This analysis helps understand key factors influencing student performance and highlights the importance of preparation and background factors.
-
----
-
-⭐ If you like this project, feel free to give it a star!
